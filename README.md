@@ -39,4 +39,4 @@ To run the application locally, follow these steps:
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
 
-## Created with ❤️ by Vinz
+## Crafted with ❤️ by Vinz
