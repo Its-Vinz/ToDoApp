@@ -15,8 +15,7 @@ This project implements a basic Todo application where users can create, read, u
 
 ## Deployment
 
-The application is deployed on the Render cloud app hosting platform. You can access the live version of the app at: 
-                    [LIVE VERSION](https://todoapp-wc7k.onrender.com/).
+The application is deployed on the Render cloud app hosting platform. You can access the live version of the app at: [LIVE VERSION](https://todoapp-wc7k.onrender.com/).
 
 ## Technologies Used
 
